@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+h1{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 280%;
+    border: black 5px solid;
+    padding-left: 25%;
+    padding-right: 25%;
+}

@@ -1,0 +1,53 @@
+@charset "utf-8";
+html {
+    background-color: hsl(154, 50%, 30%);
+    font-family: sans-serif;
+    font-size:125%;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 5px 5px black;
+
+}
+
+p{
+    text-align: justify;
+}
+
+p.biografia{
+    background-color: white;
+    border: black 10px solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p.estilo-1{
+    background-color: hsl(17, 50%, 45%);
+    color: white;
+    border: hsl(17, 100%, 25%) 20px solid;
+    padding: 10px;
+    margin-right: 50%;
+    border-radius: 20px 0px 0px 20px;
+}
+
+p.estilo-2{
+    background-color: hsl(34, 50%, 45%);
+    color:white;
+    border: hsl(34, 100%, 25%) 15px solid;
+    padding: 5px;
+    margin-left: 50%;
+    border-radius: 0px 15px 15px 0px;
+}
+
+p.estilo-3{
+    background-color:hsl(207, 100%, 25%);
+    color: white;
+    padding: 20px;
+    border:hsl(207, 50%, 45%) 5px dashed;
+    margin-left: 25%;
+    margin-right: 25%;
+}

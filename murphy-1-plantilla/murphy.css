@@ -1,0 +1,133 @@
+html{
+    background-color: darkgrey;
+}
+
+h1{
+    text-align: center;
+    font-size: 300%;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+p#naranja{
+    background-color: khaki;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 4%;
+    border: saddlebrown 2px solid;
+    font-size: 150%;
+    font-family: sans-serif;
+    padding-top: 1%;
+    z-index: 1;
+}
+
+p#naranja:hover{
+
+    z-index: 3;
+}
+
+p#amarillo{
+    background-color: yellow;
+    font-family: sans-serif;
+    font-size: 150%;
+    border: green 3px solid;
+    padding-top: 1%;
+    padding-bottom: 15%;
+    padding-left: 1%;
+    position: absolute;
+    left: 5%;
+    right: 58%;
+    top: 25%;
+    bottom: 60%;
+    z-index: 1;
+}
+
+p#amarillo:hover{
+
+    z-index: 3;
+}
+
+p#morado{
+    background-color: mediumpurple;
+    font-family: sans-serif;
+    font-size: 150%;
+    border: mediumslateblue 3px solid;
+    padding-top: 1%;
+    padding-bottom: 15%;
+    padding-left: 1%;
+    position: absolute;
+    left: 5%;
+    right: 58%;
+    top: 60%;
+    bottom: 25%;
+    z-index: 1;
+}
+
+p#morado:hover{
+
+    z-index: 3;
+}
+
+p#azul{
+    background-color: aquamarine;
+    font-family: sans-serif;
+    font-size: 150%;
+    border: aqua 3px solid;
+    padding-top: 1%;
+    padding-bottom: 10%;
+    padding-right: 1%;
+    position: absolute;
+    left: 58%;
+    right: 5%;
+    top: 25%;
+    text-align: right;
+    z-index: 1;
+
+}
+
+p#azul:hover{
+
+    z-index: 3;
+}
+
+p#rojo{
+    background-color: indianred;
+    font-family: sans-serif;
+    font-size: 150%;
+    border: red 3px solid;
+    padding-top: 1%;
+    padding-bottom: 15%;
+    padding-left: 1%;
+    position: absolute;
+    left: 58%;
+    right: 5%;
+    top: 60%;
+    bottom: 25%;
+    z-index: 1;
+}
+
+p#rojo:hover{
+
+    z-index: 3;
+}
+
+p#verde{
+    background-color: green;
+    font-family: sans-serif;
+    font-size: 150%;
+    border:darkgreen 3px solid;
+    position: absolute;
+    top: 38%;
+    bottom: 22%;
+    left: 32%;
+    right: 32%;
+    z-index: 2;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+p#verde:hover{
+
+    z-index: 3;
+}

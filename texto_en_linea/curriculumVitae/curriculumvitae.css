@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+html {
+    background-color: hsl(200, 16%, 85%);
+    font-family: sans-serif;
+}
+
+h1{
+
+    font-size: 250%;
+    text-transform: uppercase;
+    text-align: center;
+    color:hsl(0, 0%, 20%);
+}
+
+h2{
+    background-color: hsl(201, 15%, 55%);
+    color:hsl(201, 15%, 30%);
+    font-size: 200%;
+    text-decoration: underline;
+
+}
+
+h3{
+   background-color: hsl(200, 15%, 65%);
+   color:hsl(211, 19%, 42%);
+   font-style: oblique;
+   font-size: 130%;
+
+}
+
+p{
+    background-color: hsl(199, 15%, 75%);
+    text-align: justify;
+}
+address{
+background-color: white;
+text-align: right;
+font-weight: bold;
+}
+
+strong{
+    color:hsl(200, 100%, 34%);
+    font-weight: normal;
+    }
+
+    em{
+        color:hsl(200, 100%, 40%);
+        font-style: normal;
+        font-weight: bold;
+    }

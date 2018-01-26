@@ -1,0 +1,34 @@
+html{
+    background-color: hsl(175, 40%, 50%);
+}
+
+div.uno{
+    background-color: white;
+    border: red 10px solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+}
+
+div.dos{
+    background-color: white;
+    border: rebeccapurple 10px solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+}
+
+img{
+    border: orange 10px solid;
+    float: left;
+}
+
+p.menu{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+/* p#algo  es para los id

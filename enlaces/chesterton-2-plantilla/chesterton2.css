@@ -1,0 +1,23 @@
+html{
+    background-color: hsl(14, 20%, 45%);
+    font-size: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: justify;
+}
+
+nav{
+    text-align: center;
+    background-color: hsl(194, 60%, 90%);
+    color: hsl(195, 61%, 25%);
+    border: hsl(195, 61%, 25%) 2px solid;
+}

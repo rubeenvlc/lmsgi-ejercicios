@@ -1,0 +1,73 @@
+html{
+    background-color: gainsboro;
+}
+
+h1{
+    margin: -0.7%;
+    background-color: royalblue;
+    color: white;
+    font-family: sans-serif;
+    font-size: 400%;
+}
+
+
+p{
+    background-color: white;
+    margin-top: -6%;
+    font-size: 100%;
+    border-radius: 0px 0px 10px 10px;
+    font-family: sans-serif;
+    padding-left: 1%;
+    text-align: justify;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.izquierda{
+    position: absolute;
+    right: 56%;
+    left: 9%;
+    border-left: royalblue 2px solid;
+    border-right: royalblue 2px solid;
+
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 3%;
+}
+
+div.derecha{
+    position: absolute;
+    right: 10%;
+    left: 53%;
+    border-left: royalblue 2px solid;
+    border-right: royalblue 2px solid;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 3%;
+}
+
+h2{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 0;
+    padding-right: 1%;
+    font-size: 250%;
+
+}
+
+h3{
+    background-color: green;
+    color: white;
+    font-size: 150%;
+    font-family: sans-serif;
+    border-radius: 10px 10px 0px 0px;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

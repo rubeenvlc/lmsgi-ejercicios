@@ -1,0 +1,35 @@
+
+
+html{
+    background-color: hsl(69, 10%, 75%);
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+h1{
+    color: hsl(240, 65%, 25%);
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    font-weight: 900;
+    text-align: right;
+}
+
+h2{
+    color: white;
+    background-color: hsl(68, 30%, 30%);
+    clear: both;
+}
+
+strong{
+    font-style: oblique;
+}
+
+img.izquierda {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+p.centrado{
+    text-align: center;
+}

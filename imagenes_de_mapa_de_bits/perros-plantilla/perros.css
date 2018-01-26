@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "sigmar-one";
+    src:url("sigmar-one.woff")
+}
+
+html{
+    background-color: hsl(210, 75%, 95%);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "sigmar-one", cursive;
+    font-size: 270%;
+
+}
+
+h2{
+    color:hsl(210, 31%, 60%);
+    text-transform: uppercase;
+    font-family: "sigmar-one", cursive;
+    font-size: 250%;
+    text-shadow: black 3px 3px;
+}
+
+hr{
+    height: 10px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: hsl(210, 31%, 60%);
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+p{
+    font-family: sans-serif;
+}
+
+em{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 125%;
+}
+
+strong{
+    color:red;
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+span{
+    color: blue;
+}
+
+img.yorkshire{
+
+}
+
+img.dogo{
+    float: right;
+}
+
+img.ratonero{
+
+}
+
+p.ratonero{
+    text-align: center;
+
+}
+
+p.huerta{
+float: left;
+}
+
+p.asociacion{
+    float: right;
+}
+
+
+img{
+    border: hsl(210, 31%, 60%) 5px solid;
+    padding: 5px;
+}
